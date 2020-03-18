@@ -1,12 +1,13 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
-namespace Calc
+namespace CalculatorApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"Hello");
         }
     }
 }
